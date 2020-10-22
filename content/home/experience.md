@@ -24,13 +24,7 @@ date_format = "Jan 2006"
   location = "University of Arizona"
   date_start = "2018-10-27"
   date_end = "2020-10-13"
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+
 
 [[experience]]
   title = "Visiting PhD Student"
@@ -39,6 +33,6 @@ date_format = "Jan 2006"
   location = "University of Copenhagen"
   date_start = "2018-03-25"
   date_end = "2018-09-30"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+
 
 +++
