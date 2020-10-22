@@ -66,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Yimian Dai is a PhD student of signal and information processing at Nanjing University of Aeronautics & Astronauticsb. His research interests include image processing, computer vision and remote sensing. 
+Yimian Dai is a PhD student of signal and information processing at Nanjing University of Aeronautics & Astronauticsb. 
