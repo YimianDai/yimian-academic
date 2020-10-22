@@ -46,8 +46,8 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar  # OR `google-scholar`, `graduation-cap`
-  icon_pack: ai  # OR `ai`, `fas`
+- icon: graduation-cap  # OR `google-scholar`, `graduation-cap`
+  icon_pack: fas  # OR `ai`, `fas`
   link: https://scholar.google.com/citations?user=y5Ov6VAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
@@ -71,11 +71,11 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
-user_groups:
-- Principal Investigators
+# user_groups:
+# - Principal Investigators
 ---
 
 Yimian Dai is a PhD student of signal and information processing at Nanjing University of Aeronautics & Astronauticsb. His research interests include image processing, computer vision and remote sensing. 
 <!-- He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
