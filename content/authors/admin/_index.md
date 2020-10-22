@@ -66,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Yimian Dai is a PhD student of signal and information processing at Nanjing University of Aeronautics & Astronauticsb. 
+Yimian Dai is a PhD student of signal and information processing at Nanjing University of Aeronautics & Astronautics. 
