@@ -23,7 +23,7 @@ publication_short: ""
 abstract: "When facing extremely complex infrared background, due to the defect of L1 norm based sparsity measure, the state-of-the-art infrared patch-image (IPI) model would be in a dilemma where either the dim targets are over-shrinked in the separation or the strong cloud edges remains in the target image. In order to suppress the strong edges while preserving the dim targets, a weighted infrared patch-image (WIPI) model is proposed, incorporating structural prior information into the process of infrared small target and background separation. Instead of adopting a global weight, we allocate adaptive weight to each column of the target patch-image according to its patch structure. Then the proposed WIPI model is converted to a column-wise weighted robust principal component analysis (CWRPCA) problem. In addition, a target unlikelihood coefficient is designed based on the steering kernel, serving as the adaptive weight for each column. Finally, in order to solve the CWPRCA problem, a solution algorithm is developed based on Alternating Direction Method (ADM). Detailed experiment results demonstrate that the proposed method has a significant improvement over the other nine classical or state-of-the-art methods in terms of subjective visual quality, quantitative evaluation indexes and convergence rate."
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: "Infrared Physics & Technology, 2016, 77: 421-430."
 
 tags:
 featured: false

@@ -24,7 +24,7 @@ publication_short: ""
 abstract: "To further enhance the small targets and suppress the heavy clutters simultaneously, a robust non-negative infrared patch-image model via partial sum minimization of singular values is proposed. First, the intrinsic reason behind the undesirable performance of the state-of-the-art infrared patch-image (IPI) model when facing extremely complex backgrounds is analyzed. We point out that it lies in the mismatching of IPI model’s implicit assumption of a large number of observations with the reality of deficient observations of strong edges. To fix this problem, instead of the nuclear norm, we adopt the partial sum of singular values to constrain the low-rank background patch-image, which could provide a more accurate background estimation and almost eliminate all the salient residuals in the decomposed target image. In addition, considering the fact that the infrared small target is always brighter than its adjacent background, we propose an additional non-negative constraint to the sparse target patch-image, which could not only wipe off more undesirable components ulteriorly but also accelerate the convergence rate. Finally, an algorithm based on inexact augmented Lagrange multiplier method is developed to solve the proposed model. A large number of experiments are conducted demonstrating that the proposed model has a significant improvement over the other nine competitive methods in terms of both clutter suppressing performance and convergence rate."
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: "Infrared Physics & Technology, 2017, 81: 182-194."
 
 tags:
 featured: false

@@ -23,7 +23,7 @@ publication_short: ""
 abstract: "To further improve the effect of infrared small target detection, a reweighted infrared patch-image model is proposed. First, the authors point out that the nuclear norm in the infrared patch-image model could easily leave some sparse background edges in the target patch-image, leading to an inaccurate background estimation. Then, to overcome this defect, the reweighted nuclear norm is adopted to constrain the background patch-image, which could preserve the background edges better. Considering that some non-target sparse points could not be suppressed by only using l 1 norm, the authors introduce the reweighted L1 norm to further enhance the sparsity of target image. Finally, the proposed model is formulated as a reweighted robust principal component analysis problem and solved by the inexact augmented Lagrangian multiplier method. Extensive experiments show that the proposed model outperforms the other six competitive methods in suppressing background clutter and detecting target."
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: "IET Image Processing, 2017, 12(1): 70-79."
 
 tags:
 featured: false
