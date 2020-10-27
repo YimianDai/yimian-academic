@@ -29,7 +29,7 @@ education:
   - course: MEng in Signal and Information Processing
     institution: Nanjing University of Aeronautics & Astronautics
     year: 2015
-  - course: BSc in Information Engineering
+  - course: BEng in Information Engineering
     institution: Nanjing University of Aeronautics & Astronautics
     year: 2013
 
