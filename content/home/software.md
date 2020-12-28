@@ -67,6 +67,6 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./software/).
-{{% /callout %}}
+<!-- {{% callout note %}} -->
+<!-- Quickly discover relevant content by [filtering publications](./software/). -->
+<!-- {{% /callout %}} -->
